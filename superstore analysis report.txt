@@ -1,0 +1,25 @@
+PROBLEM STATEMENT :
+ 
+SUPERSTORE wants to create an annual sales report for 2022. So that, superstore owner can understand their customers and grow more sales in 2023.
+
+
+Title: Superstore Analysis Dashboard: Annual Sales Report for 2022
+
+Introduction:
+This report analyzes the annual sales report for 2022 using a dashboard created in Excel. The goal is to help the Superstore owner understand their customers and find ways to increase sales in 2023.
+
+Data Source and Preparation:
+The data comes from the Superstore's sales records for 2022. It was cleaned and organized in Excel for accuracy.
+
+Dashboard Components:
+The Excel dashboard includes an overview, sales analysis, customer analysis, geographic analysis, product analysis, and order analysis.
+
+Insights and Findings:
+The dashboard shows total sales revenue, average monthly sales, top-selling products, sales trends, monthly comparisons, customer segments, repeat customers, regional sales, and profitable products.
+
+Recommendations:
+Based on the insights, recommendations include promoting top-selling products, personalizing marketing campaigns, targeting high-sales regions, improving order fulfillment, and exploring product diversification.
+
+Final Conclusion to improve supermarket store sales :
+
+Target women customers of age group (30-49yrs) living in Maharashtra,Karnataka and UttarPradesh by showing ads/offers/coupons available on Amazon , Flipkart and Myntra 
